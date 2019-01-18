@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  HomeWork2
+
+  Created by Bernice on 2019/1/17.
+  Copyright © 2019年 Bernice. All rights reserved.
+*/
+
+"UserInfo" = "用户信息";
+"Done" = "完成";
+"HomePage" = "主页";
+"Back" = "返回";
+"First Page" = "页面一";

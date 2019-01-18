@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  HomeWork2
+
+  Created by Bernice on 2019/1/17.
+  Copyright © 2019年 Bernice. All rights reserved.
+*/
+
+CFBundleDisplayName = "国际化BerniceApp";
